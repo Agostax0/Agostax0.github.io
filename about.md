@@ -10,6 +10,8 @@ I have a degree in Computer Science and Engineering from [UniBo](https://www.uni
 
 I'm open to work and extend my knowledge on software and technology. 
 
+My latest CV! [CV from GitHub generated using GH workflows](https://github.com/Agostax0/Curriculum-Vitae/releases/latest/download/AgostaCV.pdf)
+
 ### Contact me
 My LinkedIn: [Agosta Alessandro](https://linkedin.com/in/alessandro-agosta-622733198)
 
