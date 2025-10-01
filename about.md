@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+These are my informations!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a software developer from Forlì-Cesena.
+
+I have a degree in Computer Science and Engineering from [UniBo](https://www.unibo.it/en).
+
+I'm open to work and extend my knowledge on software and technology. 
 
 ### Contact me
+My LinkedIn: [Agosta Alessandro](https://linkedin.com/in/alessandro-agosta-622733198)
 
-[email@domain.com](mailto:email@domain.com)
+My mail: [agosta1.alessandro@gmail.com](mailto:agosta1.alessandro@gmail.com)
