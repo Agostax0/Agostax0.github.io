@@ -1,9 +1,10 @@
 ---
 layout: post
 title: BriScala
+permalink: /posts/BriScala
 ---
 
-[BriScala](https://github.com/Agostax0/PPS-24-Briscala) is a project developed for the Software and Development paradigms, in junctions with 2 other university colleagues.
+[BriScala](https://github.com/Agostax0/PPS-24-Briscala) is a project developed for the Software and Development paradigms, in junction with 2 other university colleagues.
 
 This project aims to make a DSL using Scala3's features, this DSL facilitates the development of card games based on [Briscola](https://en.wikipedia.org/wiki/Briscola).
 

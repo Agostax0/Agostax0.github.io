@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-These are my informations!
-
-### More Information
-
 I'm a software developer from Forlì-Cesena.
 
 I have a degree in Computer Science and Engineering from [UniBo](https://www.unibo.it/en).

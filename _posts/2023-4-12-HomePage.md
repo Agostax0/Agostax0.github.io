@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Introduction
+permalink: /introduction/
+
 ---
 
 I'm a software developer from Forlì-Cesena.
